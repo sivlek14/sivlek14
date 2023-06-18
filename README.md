@@ -36,7 +36,6 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
     <li>🔭 I’m currently working on some projects at <a href="https://nunchee.com/">Nunchee</a> and <a href="https://fanatiz.com/">Fanatiz</a>.</li>
-    <li></li>
     <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>video streaming systems</strong>, and a bit of
         <strong>Clean Architecture</strong> with <strong>Mr Robert Martin facts</strong>.</li>
     <li>💬 Ping me about <strong>nodejs, python, go, react, docker, and cloud stuff</strong>, .</li>
